@@ -1,0 +1,22 @@
+.AboutUs-bg-container {
+  padding: 30px;
+  background-color: #e6e7e8;
+}
+.company-name {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 40px;
+  margin-top: 0px;
+}
+.about {
+  color: #000000;
+  font-family: 'Roboto';
+}
+.location-button {
+  background-color: #3e679c;
+  color: white;
+  width: 110px;
+  height: 40px;
+  border: 0px;
+  border-radius: 5px;
+}

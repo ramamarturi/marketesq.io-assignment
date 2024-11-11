@@ -1,0 +1,26 @@
+.header-container {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.logo-heading {
+  font-size: 23px;
+  font-family: 'Roboto';
+  color: #000000;
+}
+.list-item-container {
+  display: flex;
+  list-style-type: none;
+}
+.list-item {
+  margin: 7px;
+  font-family: 'Roboto';
+
+  color: #000000;
+}
+.link-item {
+  text-decoration: none;
+}
